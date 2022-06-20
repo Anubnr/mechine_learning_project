@@ -1,54 +1,17 @@
-# mechine_learning_project
+## mechine_learning_project
 this is first machine learning project
 
+### software_and_account_requirements
+ 1. [GIT Account](https://github.com/Anubnr/mechine_learning_project)
+ 2. [Heraku Account](https://dashboard.heroku.com/apps)
+ 3. [VSCode IDE](https://code.visualstudio.com/download)
+ 4. [Git Cli](https://git-scm.com/download/win)
 
-create conda environment
+
+Creating Environment
 '''
 conda create -p venv python==3.7 -y
 '''
-'''
-conda activate
-'''
-'''
-pip install -r requirements.txt
-'''
 
-to add files to git
-
-'''
-git add .
-'''
-or 
-'''
-git add <file_name>
-'''
-
->note: to ignore file or folder from git we can write file/folder name in .gitingnore
-
-to check the git status
-
-'''
-git status
-'''
-to get all versions maintained by git
- 
-'''
-git log
-'''
-to create version/commit all the changes by git
-
-'''
-git commit -m "message"
-'''
-
-to send version/changes to github
-'''
-git push origin main
-'''
-
-to check remote url
-'''
-git remore -v
-'''
 
 
