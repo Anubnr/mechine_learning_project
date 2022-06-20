@@ -6,7 +6,7 @@ this is first machine learning project
  2. [Heraku Account](https://dashboard.heroku.com/apps)
  3. [VSCode IDE](https://code.visualstudio.com/download)
  4. [Git Cli](https://git-scm.com/download/win)
-
+ 5. [Git command documnentation](https://git-scm.com/docs/git)
 
 Creating conda Environment
 ```
